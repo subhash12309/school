@@ -1,1 +1,10 @@
 https://en.wikipedia.org/wiki/School 
+
+git push command
+
+
+
+git add filename
+git commit -a -m "commt message"
+git remote add origin https://github.com/subhash12309/school.git
+git push -u origin master
